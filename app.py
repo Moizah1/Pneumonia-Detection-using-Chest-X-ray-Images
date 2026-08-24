@@ -1,18 +1,3 @@
-"""
-Pneumonia Detection from Chest X-Rays — Streamlit App
--------------------------------------------------------
-Loads a trained Keras model (from pneumonia_detection_transfer_learning.ipynb)
-and lets a user upload a chest X-ray image to get a prediction.
-
-Run with:
-    streamlit run streamlit_app.py
-
-Expects a trained model file in the same folder, by default:
-    pneumonia_detector_mobilenetv2.keras
-(produced by Section 11 of the training notebook). Change MODEL_PATH below
-if yours is named differently or lives elsewhere.
-"""
-
 import numpy as np
 import streamlit as st
 from PIL import Image
