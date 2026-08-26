@@ -139,6 +139,20 @@ image, and view the prediction, confidence score, and an adjustable decision thr
 
 ---
 
+## Results
+
+After training:
+
+| Metric | Value MobileNET|
+|---|---|
+| Test Accuracy | 0.5909 |
+| Test Precision | 0.6667 |
+| Test Recall | 0.3636 |
+| Test AUC | 0.7025 |
+
+---
+
+
 ## License / Attribution
 
 Dataset: Kermany, Zhang, Goldbaum — Chest X-Ray Images (Pneumonia), distributed via
