@@ -145,10 +145,10 @@ After training:
 
 | Metric | Value MobileNET|
 |---|---|
-| Test Accuracy | 0.5909 |
-| Test Precision | 0.6667 |
-| Test Recall | 0.3636 |
-| Test AUC | 0.7025 |
+| Test Accuracy | 0.5000 |
+| Test Precision | 0.5000 |
+| Test Recall | 1.0000 |
+| Test AUC | 0.8926 |
 
 ---
 
