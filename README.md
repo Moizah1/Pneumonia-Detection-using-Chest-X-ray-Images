@@ -1,7 +1,7 @@
 # Pneumonia Detection from Chest X-Ray Images using Transfer Learning
 
 An AI system that classifies chest X-ray images as **NORMAL** or **PNEUMONIA**, built with transfer
-learning (MobileNetV2 & VGG16 pretrained on ImageNet) on the
+learning (MobileNetV2, VGG16 & ResNet50 pretrained on ImageNet) on the
 [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 dataset, plus a Streamlit app for interactive inference.
 
