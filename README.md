@@ -152,7 +152,6 @@ After training:
 
 ---
 
-
 ## License / Attribution
 
 Dataset: Kermany, Zhang, Goldbaum — Chest X-Ray Images (Pneumonia), distributed via
