@@ -143,12 +143,12 @@ image, and view the prediction, confidence score, and an adjustable decision thr
 
 After training:
 
-| Metric | Value MobileNET | Value VGG16 | Value ResNET50 |
-|---|---|---|---|
-| Test Accuracy | 0.5000 | 0.5455 | 0.5000 |
-| Test Precision | 0.5000 | 1.0000 | 0.5000 |
-| Test Recall | 1.0000 | 0.0909 | 1.0000 |
-| Test AUC | 0.8926 | 0.8140 | 0.7025 |
+| Metric | Value MobileNET | Value VGG16 | Value ResNET50 | Value DenseNET121 |
+|---|---|---|---|---|
+| Test Accuracy | 0.5000 | 0.5455 | 0.5000 | 0.5909 |
+| Test Precision | 0.5000 | 1.0000 | 0.5000 | 0.5500 |
+| Test Recall | 1.0000 | 0.0909 | 1.0000 | 1.0000 |
+| Test AUC | 0.8926 | 0.8140 | 0.7025 | 0.9917 |
 
 ---
 
