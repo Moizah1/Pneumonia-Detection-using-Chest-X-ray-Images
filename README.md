@@ -141,7 +141,7 @@ image, and view the prediction, confidence score, and an adjustable decision thr
 
 ## Results
 
-After training:
+After training, results are:
 
 | Metric | Value MobileNET | Value VGG16 | Value ResNET50 | Value DenseNET121 |
 |---|---|---|---|---|
